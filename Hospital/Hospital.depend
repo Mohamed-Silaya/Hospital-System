@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1598797414 source:c:\users\mohamed\desktop\c++ projects\hospital\hospital\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<fstream>
+
+1598797414 source:c:\users\mohamed\desktop\c++ projects\c++\hospital\hospital\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<fstream>
+
